@@ -34,7 +34,7 @@ export const info = {
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
-    miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
+    miniBio: [ 
         {
             emoji: '☕',
             text: 'fueled by coffee'
@@ -53,6 +53,11 @@ export const info = {
         }
     ],
     socials: [
+        {
+            link: "tel:+94778480603",
+            icon: 'fa fa-phone',
+            label: 'Call me'
+        },
         {
             link: "https://facebook.com/pradsingam",
             icon: 'fa fa-facebook',

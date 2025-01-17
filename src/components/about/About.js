@@ -10,7 +10,7 @@ export default function About({innerRef}) {
 
     function aboutMeText() {
         return <>
-            <p><span style={{color: info.baseColor}}>{firstName}{info.lastName.toLowerCase()} $</span> cat
+            <p><span style={{color: info.baseColor}}>{"prad".toLowerCase()} $</span> cat
                 about{firstName} </p>
             <p><span style={{color: info.baseColor}}>about{firstName} <span
                 className={Style.green}>(main)</span> $ </span>
@@ -21,7 +21,7 @@ export default function About({innerRef}) {
 
     function skillsText() {
         return <>
-            <p><span style={{color: info.baseColor}}>{firstName}{info.lastName.toLowerCase()} $</span> cd skills/tools
+            <p><span style={{color: info.baseColor}}>{"prad".toLowerCase()} $</span> cd skills/tools
             </p>
             <p><span style={{color: info.baseColor}}>skills/tools <span
                 className={Style.green}>(main)</span> $</span> ls</p>
@@ -38,7 +38,7 @@ export default function About({innerRef}) {
 
     function miscText() {
         return <>
-            <p><span style={{color: info.baseColor}}>{firstName}{info.lastName.toLowerCase()} $</span> cd
+            <p><span style={{color: info.baseColor}}>{"prad".toLowerCase()} $</span> cd
                 hobbies/interests</p>
             <p><span style={{color: info.baseColor}}>hobbies/interests <span
                 className={Style.green}>(main)</span> $</span> ls</p>
