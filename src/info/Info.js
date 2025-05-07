@@ -85,7 +85,7 @@ export const info = {
     bio: "Hello! I'm Pratheep. I'm a software developer. I enjoy coding, I focus on delivering clean, scalable, and user-friendly solutions that drive results.",
     skills:
         {
-            proficientWith: ['javascript', 'react','react-native','github', 'tailwind', 'html5', 'css3'],
+            proficientWith: ['javascript', 'Next','react-native','github', 'tailwind', 'html5', 'Wordpress'],
             exposedTo: ['nodejs', 'python', 'graphic design']
         }
     ,
