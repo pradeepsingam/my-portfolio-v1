@@ -82,7 +82,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Pratheep. I'm a software developer. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Pratheep. I'm a software developer. I enjoy coding, I focus on delivering clean, scalable, and user-friendly solutions that drive results.",
     skills:
         {
             proficientWith: ['javascript', 'react','react-native','github', 'tailwind', 'html5', 'css3'],
